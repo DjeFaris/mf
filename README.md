@@ -5,7 +5,7 @@
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/DjeFaris/mf
-cd menfesscuy
+cd mf
 pip3 install -r requirements.txt
 python3 main.py
 ````
